@@ -212,5 +212,5 @@ Donald Oketch
 
 Cybersecurity student and aspiring penetration tester.
 
-- LinkedIn: [Donald Oketch]www.linkedin.com/in/oketch-donald-odhiambo-0a6823429
+- LinkedIn: [Donald Oketch](www.linkedin.com/in/oketch-donald-odhiambo-0a6823429)
 - GitHub: [Donald-Odhiambo](https://github.com/Donald-Odhiambo)
