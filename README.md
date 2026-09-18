@@ -122,6 +122,9 @@ These observations are not confirmed vulnerabilities. Further authorized validat
 | Possible search-engine exposure | Medium |
 | Public infrastructure relationships | Low/Medium |
 
+<img width="1513" height="1600" alt="Piechart_Risk" src="https://github.com/user-attachments/assets/ab78fc74-368d-4bba-b928-e7e3b1cfb057" />
+
+
 ## Recommendations
 
 ### Web Application Security
