@@ -1,8 +1,19 @@
-# NETWORKWALKS-B083-WK2-PM1-FOOTPRINTING-AND-SCANNING
+# Authorized Footprinting & Network Scanning Assessment
 
-# Authorized Footprinting and Network Scanning Assessment
+<p align="center">
+  <img src="https://img.shields.io/badge/Assessment-Authorized%20Educational-blue?style=for-the-badge" alt="Authorized Educational Assessment">
+  <img src="https://img.shields.io/badge/Focus-Reconnaissance%20%26%20Network%20Discovery-green?style=for-the-badge" alt="Reconnaissance and Network Discovery">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Completed">
+</p>
 
-Ref: https://drive.google.com/file/d/1N-Nau5_j6_YSk2wRmvupe3Io3m_Gfmeg/view?usp=sharing
+<p align="center">
+  <strong>NetworkWalks Academy Cybersecurity Internship Programme</strong><br>
+  Week 2 | Batch B083
+</p>
+
+---
+
+## Project Overview
 
 This project documents an authorized educational cybersecurity assessment completed as part of the NetworkWalks Academy Cybersecurity Internship Programme.
 
@@ -12,25 +23,30 @@ The assessment covered:
 - DNS and domain information gathering
 - Web technology fingerprinting
 - HTTP header review
-- WAF detection
+- Web Application Firewall detection
 - Public search-engine reconnaissance
 - Local network host discovery
 - Network topology visualization
 - Security observations and recommendations
 
-## Disclaimer
+## Project Documentation
 
-All activities in this project were performed for authorized educational purposes only.
+### Full Assessment Report
 
-Testing was limited to:
+<p align="center">
+  <a href="https://drive.google.com/file/d/1N-Nau5_j6_YSk2wRmvupe3Io3m_Gfmeg/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Read%20Full%20Assessment%20Report-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Read Full Assessment Report">
+  </a>
+</p>
 
-- The approved assessment domain
-- Devices and infrastructure controlled by the assessor
-- The authorized local network
+The full report contains the detailed methodology, evidence, observations, risk analysis, limitations, recommendations, and lessons learned.
 
-No exploitation, credential attacks, denial-of-service testing, malware deployment, persistence, privilege escalation, or unauthorized access was performed.
+### Supporting Evidence
 
-Do not use these techniques against systems or networks without explicit written permission.
+- [View reconnaissance evidence](https://drive.google.com/file/d/123sFguPTMiCoJmABuAs27TpCon6pCoTu/view?usp=sharing)
+- [View network discovery evidence](https://drive.google.com/file/d/1AbHHvQfjYI6jQk_yx3a0JZXJ7QtWQaVY/view?usp=sharing)
+
+> Make sure all Google Drive files are set to **Anyone with the link → Viewer** before sharing this repository.
 
 ## Project Information
 
@@ -45,23 +61,48 @@ Do not use these techniques against systems or networks without explicit written
 | Report version | 1.0 |
 | Tester | Donald Oketch |
 
+## Scope and Ethics
+
+All activities in this project were performed for authorized educational purposes only.
+
+Testing was limited to:
+
+- The approved assessment domain.
+- Devices and infrastructure controlled by the assessor.
+- The authorized local network.
+
+The following activities were not performed:
+
+- Exploitation.
+- Password cracking.
+- Credential attacks.
+- Denial-of-service testing.
+- Malware deployment.
+- Persistence.
+- Privilege escalation.
+- Data modification.
+- Unauthorized access.
+- Intrusive vulnerability validation.
+
+Do not use the techniques described in this project against systems or networks without explicit written permission.
+
 ## Objectives
 
 The objectives of this assessment were to:
 
-1. Collect publicly available information about the approved domain.
-2. Identify domain registration and DNS information.
-3. Resolve the domain to its associated IP address.
-4. Identify publicly visible web technologies.
-5. Review HTTP response headers.
-6. Check for indicators of a Web Application Firewall.
-7. Enumerate publicly available DNS records.
-8. Visualize relationships using Maltego.
-9. Review publicly indexed information using GHDB.
-10. Identify active devices on the authorized local network.
-11. Document available IP and MAC-address information.
-12. Generate a local network topology diagram.
-13. Document observations, risks, limitations, and recommendations.
+- Collect publicly available information about the approved domain.
+- Identify domain registration and DNS information.
+- Resolve the domain to its associated IP address.
+- Identify publicly visible web technologies.
+- Review HTTP response headers.
+- Check for indicators of a Web Application Firewall.
+- Enumerate publicly available DNS records.
+- Visualize relationships using Maltego.
+- Review publicly indexed information using GHDB.
+- Identify active devices on the authorized local network.
+- Document available IP and MAC-address information.
+- Generate a local network topology diagram.
+- Document observations, risks, limitations, and recommendations.
 
 ## Tools Used
 
@@ -83,10 +124,19 @@ The objectives of this assessment were to:
 
 ### 1. Reconnaissance
 
-Publicly available and low-impact information was collected from the approved domain. The process included domain analysis, DNS resolution, HTTP response review, technology fingerprinting, WAF detection, relationship mapping, and search-engine reconnaissance.
+Publicly available and low-impact information was collected from the approved domain.
 
-Ref: https://drive.google.com/file/d/123sFguPTMiCoJmABuAs27TpCon6pCoTu/view?usp=sharing
+The process included:
 
+- Domain analysis.
+- DNS resolution.
+- HTTP response review.
+- Technology fingerprinting.
+- WAF detection.
+- Relationship mapping.
+- Search-engine reconnaissance.
+
+Detailed reconnaissance evidence is available in the [reconnaissance documentation](https://drive.google.com/file/d/123sFguPTMiCoJmABuAs27TpCon6pCoTu/view?usp=sharing).
 
 ### 2. Network Discovery
 
@@ -94,13 +144,20 @@ The local network configuration was first identified using Windows network comma
 
 The scan was intended to identify active hosts only. It was not used for exploitation or intrusive vulnerability validation.
 
-Ref: https://drive.google.com/file/d/1AbHHvQfjYI6jQk_yx3a0JZXJ7QtWQaVY/view?usp=sharing
+View the [network discovery evidence](https://drive.google.com/file/d/1AbHHvQfjYI6jQk_yx3a0JZXJ7QtWQaVY/view?usp=sharing).
 
 ### 3. Evidence Collection
 
-Evidence was collected through command output, screenshots, topology diagrams, and written observations. Sensitive or unnecessary information should be sanitized before publication.
+Evidence was collected through:
 
-Ref: Links above
+- Command output.
+- Screenshots.
+- Network topology diagrams.
+- Tool results.
+- Written observations.
+
+Sensitive or unnecessary information should be sanitized before publication.
+
 ## Key Observations
 
 The assessment identified the following observations:
@@ -115,7 +172,7 @@ The assessment identified the following observations:
 - Multiple active hosts were discovered on the authorized local network.
 - A network topology diagram was generated using Zenmap.
 
-These observations are not confirmed vulnerabilities. Further authorized validation would be required.
+> These observations are not confirmed vulnerabilities. Further authorized validation would be required.
 
 ## Risk Summary
 
@@ -129,9 +186,6 @@ These observations are not confirmed vulnerabilities. Further authorized validat
 | Multiple active local network devices | Medium |
 | Possible search-engine exposure | Medium |
 | Public infrastructure relationships | Low/Medium |
-
-<img width="1513" height="1600" alt="Piechart_Risk" src="https://github.com/user-attachments/assets/ab78fc74-368d-4bba-b928-e7e3b1cfb057" />
-
 
 ## Recommendations
 
@@ -181,18 +235,18 @@ This project was limited to reconnaissance and host discovery.
 
 The following activities were not performed:
 
-- Exploitation
-- Password cracking
-- Credential attacks
-- Denial-of-service testing
-- Malware deployment
-- Persistence
-- Privilege escalation
-- Data modification
-- Unauthorized access
-- Intrusive vulnerability validation
+- Exploitation.
+- Password cracking.
+- Credential attacks.
+- Denial-of-service testing.
+- Malware deployment.
+- Persistence.
+- Privilege escalation.
+- Data modification.
+- Unauthorized access.
+- Intrusive vulnerability validation.
 
-Technology fingerprints, DNS results, WAF indicators, and search-engine results may be incomplete or change over time.
+Technology fingerprints, DNS results, WAF indicators, and search-engine results may be incomplete or may change over time.
 
 ## Lessons Learned
 
@@ -201,27 +255,27 @@ Technology fingerprints, DNS results, WAF indicators, and search-engine results 
 - A detected technology or endpoint is not automatically a vulnerability.
 - Passive and active reconnaissance have different levels of interaction.
 - Network visibility supports asset management and defensive monitoring.
-- Evidence, limitations, risk, and recommendations are essential parts of a professional security report.
+- Evidence, limitations, risk, and recommendations are essential parts of professional security work.
 - Authorization must be confirmed before performing security testing.
 
 ## Future Improvements
 
 Future versions of this project may include:
 
-- Automated reconnaissance report generation
-- Asset inventory tracking
-- DNS monitoring
-- HTTP security-header comparison
-- Vulnerability validation in a controlled lab
-- Network segmentation analysis
-- Detection engineering using network logs
-- A Python-based reconnaissance documentation tool
+- Automated reconnaissance report generation.
+- Asset inventory tracking.
+- DNS monitoring.
+- HTTP security-header comparison.
+- Vulnerability validation in a controlled lab.
+- Network segmentation analysis.
+- Detection engineering using network logs.
+- A Python-based reconnaissance documentation tool.
 
 ## Author
 
-Donald Oketch
+**Donald Oketch**
 
 Cybersecurity student and aspiring penetration tester.
 
-- LinkedIn: (www.linkedin.com/in/oketch-donald-odhiambo-0a6823429)
+- LinkedIn: [Donald Oketch](http://www.linkedin.com/in/oketch-donald-odhiambo-0a6823429)
 - GitHub: [Donald-Odhiambo](https://github.com/Donald-Odhiambo)
