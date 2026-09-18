@@ -187,6 +187,9 @@ The assessment identified the following observations:
 | Possible search-engine exposure | Medium |
 | Public infrastructure relationships | Low/Medium |
 
+<img width="1536" height="1024" alt="Risk" src="https://github.com/user-attachments/assets/d057c30e-c4d0-4188-90e5-6bda8df84e4c" />
+
+
 ## Recommendations
 
 ### Web Application Security
