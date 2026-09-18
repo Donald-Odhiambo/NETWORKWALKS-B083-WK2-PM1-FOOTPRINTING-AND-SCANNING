@@ -1,4 +1,4 @@
-# NETWORKWALKS-B083-WK2-PM1-FOOTPRINTING-AND-SCANNING
+<img width="1546" height="616" alt="image" src="https://github.com/user-attachments/assets/f85db2a0-eb95-413f-b39e-2780defa5c47" /># NETWORKWALKS-B083-WK2-PM1-FOOTPRINTING-AND-SCANNING
 
 # Authorized Footprinting and Network Scanning Assessment
 
@@ -83,6 +83,9 @@ The objectives of this assessment were to:
 
 Publicly available and low-impact information was collected from the approved domain. The process included domain analysis, DNS resolution, HTTP response review, technology fingerprinting, WAF detection, relationship mapping, and search-engine reconnaissance.
 
+Ref: https://drive.google.com/file/d/123sFguPTMiCoJmABuAs27TpCon6pCoTu/view?usp=sharing
+
+
 ### 2. Network Discovery
 
 The local network configuration was first identified using Windows network commands. Zenmap was then used to perform host discovery against the authorized local subnet.
@@ -93,7 +96,7 @@ The scan was intended to identify active hosts only. It was not used for exploit
 
 Evidence was collected through command output, screenshots, topology diagrams, and written observations. Sensitive or unnecessary information should be sanitized before publication.
 
-Ref: https://docs.google.com/document/d/1ocu9Vg9Lz3JKhwfiyPMP-KrVJ3MtjL3_l7u7S7SDu7o/edit?usp=sharing
+Ref: Links above
 ## Key Observations
 
 The assessment identified the following observations:
