@@ -93,6 +93,7 @@ The scan was intended to identify active hosts only. It was not used for exploit
 
 Evidence was collected through command output, screenshots, topology diagrams, and written observations. Sensitive or unnecessary information should be sanitized before publication.
 
+Ref: https://docs.google.com/document/d/1ocu9Vg9Lz3JKhwfiyPMP-KrVJ3MtjL3_l7u7S7SDu7o/edit?usp=sharing
 ## Key Observations
 
 The assessment identified the following observations:
