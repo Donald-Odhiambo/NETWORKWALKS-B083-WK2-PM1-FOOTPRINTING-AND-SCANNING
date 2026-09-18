@@ -1,6 +1,8 @@
-<img width="1546" height="616" alt="image" src="https://github.com/user-attachments/assets/f85db2a0-eb95-413f-b39e-2780defa5c47" /># NETWORKWALKS-B083-WK2-PM1-FOOTPRINTING-AND-SCANNING
+# NETWORKWALKS-B083-WK2-PM1-FOOTPRINTING-AND-SCANNING
 
 # Authorized Footprinting and Network Scanning Assessment
+
+Ref: https://drive.google.com/file/d/1N-Nau5_j6_YSk2wRmvupe3Io3m_Gfmeg/view?usp=sharing
 
 This project documents an authorized educational cybersecurity assessment completed as part of the NetworkWalks Academy Cybersecurity Internship Programme.
 
