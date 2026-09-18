@@ -92,6 +92,8 @@ The local network configuration was first identified using Windows network comma
 
 The scan was intended to identify active hosts only. It was not used for exploitation or intrusive vulnerability validation.
 
+Ref: https://drive.google.com/file/d/1AbHHvQfjYI6jQk_yx3a0JZXJ7QtWQaVY/view?usp=sharing
+
 ### 3. Evidence Collection
 
 Evidence was collected through command output, screenshots, topology diagrams, and written observations. Sensitive or unnecessary information should be sanitized before publication.
